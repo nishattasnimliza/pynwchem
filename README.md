@@ -4,9 +4,7 @@ Let's use Python to understand NWChem output
 
 # What is it?
 
-A Python script which is initially created and designed for extracting data from NWChem and report in human-readable format, where Python and NWChem are one of the best programming languages and one of the best computational chemistry software, respectively.
-
-- pynwchem: 
+pynwchem is a Python script which is initially created and designed for extracting data from NWChem and report in human-readable format, where Python and NWChem are one of the best programming languages and one of the best computational chemistry software, respectively.
 
 # Prerequisite
 
